@@ -1,0 +1,428 @@
+[2025-09-20 15:35:38]	[info] incremental build: 16 source files changed
+These source files will be recompiled
+---
+'c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\drivers\bsp\ev_hc32f460_lqfp100_v2\ev_hc32f460_lqfp100_v2.c': object (.o) file not exist
+'c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\drivers\cmsis\Device\HDSC\hc32f4xx\Source\system_hc32f460.c': object (.o) file not exist
+'c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\drivers\hc32_ll_driver\src\hc32_ll.c': object (.o) file not exist
+'c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\drivers\hc32_ll_driver\src\hc32_ll_clk.c': object (.o) file not exist
+'c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\drivers\hc32_ll_driver\src\hc32_ll_efm.c': object (.o) file not exist
+'c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\drivers\hc32_ll_driver\src\hc32_ll_fcg.c': object (.o) file not exist
+'c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\drivers\hc32_ll_driver\src\hc32_ll_gpio.c': object (.o) file not exist
+'c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\drivers\hc32_ll_driver\src\hc32_ll_icg.c': object (.o) file not exist
+'c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\drivers\hc32_ll_driver\src\hc32_ll_interrupts.c': object (.o) file not exist
+'c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\drivers\hc32_ll_driver\src\hc32_ll_keyscan.c': object (.o) file not exist
+'c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\drivers\hc32_ll_driver\src\hc32_ll_pwc.c': object (.o) file not exist
+'c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\drivers\hc32_ll_driver\src\hc32_ll_sram.c': object (.o) file not exist
+'c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\drivers\hc32_ll_driver\src\hc32_ll_usart.c': object (.o) file not exist
+'c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\drivers\hc32_ll_driver\src\hc32_ll_utility.c': object (.o) file not exist
+'c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\projects\ev_hc32f460_lqfp100_v2\examples\usart\usart_uart_polling\source\main.c': object (.o) file not exist
+'c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\projects\ev_hc32f460_lqfp100_v2\examples\usart\usart_uart_polling\GCC\startup_hc32f460.S': object (.o) file not exist
+
+[2025-09-20 15:36:23]	[done]
+	build successfully !
+
+[2025-09-20 15:40:44]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\projects\ev_hc32f460_lqfp100_v2\examples\usart\usart_uart_polling\source\main.c': source file has been changed.
+
+[2025-09-20 15:40:48]	[done]
+	build successfully !
+
+[2025-09-20 15:41:08]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\projects\ev_hc32f460_lqfp100_v2\examples\usart\usart_uart_polling\source\main.c': source file has been changed.
+
+[2025-09-20 15:41:12]	[done]
+	build successfully !
+
+[2025-09-20 15:47:03]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\projects\ev_hc32f460_lqfp100_v2\examples\usart\usart_uart_polling\source\main.c': source file has been changed.
+
+[2025-09-20 15:47:06]	[done]
+	build successfully !
+
+[2025-09-20 15:51:06]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\projects\ev_hc32f460_lqfp100_v2\examples\usart\usart_uart_polling\source\main.c': source file has been changed.
+
+[2025-09-20 15:51:09]	[done]
+	build successfully !
+
+[2025-09-20 15:51:25]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\projects\ev_hc32f460_lqfp100_v2\examples\usart\usart_uart_polling\source\main.c': source file has been changed.
+
+[2025-09-20 15:51:30]	[done]
+	build successfully !
+
+[2025-09-20 15:54:37]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\projects\ev_hc32f460_lqfp100_v2\examples\usart\usart_uart_polling\source\main.c': source file has been changed.
+
+[2025-09-20 15:54:40]	[done]
+	build successfully !
+
+[2025-09-20 16:01:16]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\projects\ev_hc32f460_lqfp100_v2\examples\usart\usart_uart_polling\source\main.c': source file has been changed.
+
+[2025-09-20 16:01:19]	link failed !, exit code: 1
+   at unify_builder.Program.Main(String[] args_)
+---
+c:/gcc/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/bin/ld.exe: ./build/Debug/.obj/__/source/main.o: in function `send_string':
+c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\projects\ev_hc32f460_lqfp100_v2\examples\usart\usart_uart_polling\GCC/./../source/main.c:113: undefined reference to `USART1_SendByte'
+Memory region         Used Size  Region Size  %age Used
+           FLASH:       19756 B       512 KB      3.77%
+        OTP_DATA:          0 GB         64 B      0.00%
+        OTP_LOCK:          0 GB          4 B      0.00%
+             RAM:         520 B       188 KB      0.27%
+         RET_RAM:          0 GB         4 KB      0.00%
+collect2.exe: error: ld returned 1 exit status
+
+
+[2025-09-20 16:01:48]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\projects\ev_hc32f460_lqfp100_v2\examples\usart\usart_uart_polling\source\main.c': source file has been changed.
+
+[2025-09-20 16:01:52]	[done]
+	build successfully !
+
+[2025-09-20 16:04:06]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\projects\ev_hc32f460_lqfp100_v2\examples\usart\usart_uart_polling\source\main.c': source file has been changed.
+
+[2025-09-20 16:04:10]	[done]
+	build successfully !
+
+[2025-09-20 16:05:31]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\projects\ev_hc32f460_lqfp100_v2\examples\usart\usart_uart_polling\source\main.c': source file has been changed.
+
+[2025-09-20 16:05:35]	[done]
+	build successfully !
+
+[2025-09-20 16:07:46]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\projects\ev_hc32f460_lqfp100_v2\examples\usart\usart_uart_polling\source\main.c': source file has been changed.
+
+[2025-09-20 16:07:50]	[done]
+	build successfully !
+
+[2025-09-20 16:09:24]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\projects\ev_hc32f460_lqfp100_v2\examples\usart\usart_uart_polling\source\main.c': source file has been changed.
+
+[2025-09-20 16:09:27]	[done]
+	build successfully !
+
+[2025-09-20 16:10:31]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\projects\ev_hc32f460_lqfp100_v2\examples\usart\usart_uart_polling\source\main.c': source file has been changed.
+
+[2025-09-20 16:10:35]	[done]
+	build successfully !
+
+[2025-09-20 16:12:08]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\projects\ev_hc32f460_lqfp100_v2\examples\usart\usart_uart_polling\source\main.c': source file has been changed.
+
+[2025-09-20 16:12:13]	[done]
+	build successfully !
+
+[2025-09-20 16:15:23]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\projects\ev_hc32f460_lqfp100_v2\examples\usart\usart_uart_polling\source\main.c': source file has been changed.
+
+[2025-09-20 16:15:25]	compilation failed at : "c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\projects\ev_hc32f460_lqfp100_v2\examples\usart\usart_uart_polling\source\main.c", exit code: 1
+command: 
+  "C:\gcc\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe" -c -xc -mthumb -std=c11 -I../source -I../../../../../../drivers/cmsis/Device/HDSC/hc32f4xx/Include -I../../../../../../drivers/hc32_ll_driver/inc -I../../../../../../drivers/cmsis/Include -I../../../../../../drivers/bsp/ev_hc32f460_lqfp100_v2 -D"__DEBUG" -D"HC32F460" -D"USE_DDL_DRIVER" -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -O0 -Wall -g -ffunction-sections -fdata-sections -fsigned-char --specs=nano.specs --specs=nosys.specs -fmessage-length=0 -mthumb-interwork -fno-common -Wall -Wno-main -Wno-comment -o ./build/Debug/.obj/__/source/main.o -MMD ./../source/main.c
+   at unify_builder.Program.Main(String[] args_)
+---
+./../source/main.c: In function 'main':
+./../source/main.c:221:63: error: expected ';' before 'USART_WriteData'
+  221 |             USART_ClearStatus(USART_UNIT, USART_FLAG_TX_EMPTY)
+      |                                                               ^
+      |                                                               ;
+  222 |             USART_WriteData(USART_UNIT, u16RxData);
+      |             ~~~~~~~~~~~~~~~                                    
+./../source/main.c:223:63: error: expected ';' before 'USART_WriteData'
+  223 |             USART_ClearStatus(USART_UNIT, USART_FLAG_TX_EMPTY)
+      |                                                               ^
+      |                                                               ;
+  224 |             USART_WriteData(USART_UNIT, u16RxData);
+      |             ~~~~~~~~~~~~~~~                                    
+./../source/main.c:225:63: error: expected ';' before 'USART_WriteData'
+  225 |             USART_ClearStatus(USART_UNIT, USART_FLAG_TX_EMPTY)
+      |                                                               ^
+      |                                                               ;
+  226 |             USART_WriteData(USART_UNIT, u16RxData);
+      |             ~~~~~~~~~~~~~~~                                    
+At top level:
+./../source/main.c:143:13: warning: 'Delay1s' defined but not used [-Wunused-function]
+  143 | static void Delay1s(void)
+      |             ^~~~~~~
+
+[2025-09-20 16:15:41]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\projects\ev_hc32f460_lqfp100_v2\examples\usart\usart_uart_polling\source\main.c': source file has been changed.
+
+[2025-09-20 16:15:46]	[done]
+	build successfully !
+
+[2025-09-20 16:17:59]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\projects\ev_hc32f460_lqfp100_v2\examples\usart\usart_uart_polling\source\main.c': source file has been changed.
+
+[2025-09-20 16:18:02]	compilation failed at : "c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\projects\ev_hc32f460_lqfp100_v2\examples\usart\usart_uart_polling\source\main.c", exit code: 1
+command: 
+  "C:\gcc\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe" -c -xc -mthumb -std=c11 -I../source -I../../../../../../drivers/cmsis/Device/HDSC/hc32f4xx/Include -I../../../../../../drivers/hc32_ll_driver/inc -I../../../../../../drivers/cmsis/Include -I../../../../../../drivers/bsp/ev_hc32f460_lqfp100_v2 -D"__DEBUG" -D"HC32F460" -D"USE_DDL_DRIVER" -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -O0 -Wall -g -ffunction-sections -fdata-sections -fsigned-char --specs=nano.specs --specs=nosys.specs -fmessage-length=0 -mthumb-interwork -fno-common -Wall -Wno-main -Wno-comment -o ./build/Debug/.obj/__/source/main.o -MMD ./../source/main.c
+   at unify_builder.Program.Main(String[] args_)
+---
+./../source/main.c: In function 'main':
+./../source/main.c:221:60: error: expected ';' before 'USART_WriteData'
+  221 |             USART_GetStatus(USART_UNIT, USART_FLAG_RX_FULL)
+      |                                                            ^
+      |                                                            ;
+  222 | 
+  223 |             USART_WriteData(USART_UNIT, u16RxData);
+      |             ~~~~~~~~~~~~~~~                                 
+./../source/main.c:224:60: error: expected ';' before '}' token
+  224 |             USART_GetStatus(USART_UNIT, USART_FLAG_RX_FULL)
+      |                                                            ^
+      |                                                            ;
+......
+  233 |         }
+      |         ~                                                   
+At top level:
+./../source/main.c:143:13: warning: 'Delay1s' defined but not used [-Wunused-function]
+  143 | static void Delay1s(void)
+      |             ^~~~~~~
+
+[2025-09-20 16:18:19]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\projects\ev_hc32f460_lqfp100_v2\examples\usart\usart_uart_polling\source\main.c': source file has been changed.
+
+[2025-09-20 16:18:22]	[done]
+	build successfully !
+
+[2025-09-20 16:22:03]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\projects\ev_hc32f460_lqfp100_v2\examples\usart\usart_uart_polling\source\main.c': source file has been changed.
+
+[2025-09-20 16:22:06]	link failed !, exit code: 1
+   at unify_builder.Program.Main(String[] args_)
+---
+c:/gcc/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/bin/ld.exe: ./build/Debug/.obj/__/source/main.o: in function `main':
+c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\projects\ev_hc32f460_lqfp100_v2\examples\usart\usart_uart_polling\GCC/./../source/main.c:219: undefined reference to `USART_TXD'
+Memory region         Used Size  Region Size  %age Used
+           FLASH:       19392 B       512 KB      3.70%
+        OTP_DATA:          0 GB         64 B      0.00%
+        OTP_LOCK:          0 GB          4 B      0.00%
+             RAM:         520 B       188 KB      0.27%
+         RET_RAM:          0 GB         4 KB      0.00%
+collect2.exe: error: ld returned 1 exit status
+
+
+[2025-09-20 16:22:49]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\projects\ev_hc32f460_lqfp100_v2\examples\usart\usart_uart_polling\source\main.c': source file has been changed.
+
+[2025-09-20 16:22:53]	[done]
+	build successfully !
+
+[2025-09-20 16:29:28]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\projects\ev_hc32f460_lqfp100_v2\examples\usart\usart_uart_polling\source\main.c': source file has been changed.
+
+[2025-09-20 16:29:31]	compilation failed at : "c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\projects\ev_hc32f460_lqfp100_v2\examples\usart\usart_uart_polling\source\main.c", exit code: 1
+command: 
+  "C:\gcc\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe" -c -xc -mthumb -std=c11 -I../source -I../../../../../../drivers/cmsis/Device/HDSC/hc32f4xx/Include -I../../../../../../drivers/hc32_ll_driver/inc -I../../../../../../drivers/cmsis/Include -I../../../../../../drivers/bsp/ev_hc32f460_lqfp100_v2 -D"__DEBUG" -D"HC32F460" -D"USE_DDL_DRIVER" -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -O0 -Wall -g -ffunction-sections -fdata-sections -fsigned-char --specs=nano.specs --specs=nosys.specs -fmessage-length=0 -mthumb-interwork -fno-common -Wall -Wno-main -Wno-comment -o ./build/Debug/.obj/__/source/main.o -MMD ./../source/main.c
+   at unify_builder.Program.Main(String[] args_)
+---
+./../source/main.c:86:42: error: expected ';', ',' or ')' before 'uint8_t'
+   86 | void vcp_txdata(CM_USART_TypeDef *USARTx uint8_t *Buf, uint32_t Len)
+      |                                          ^~~~~~~
+./../source/main.c: In function 'main':
+./../source/main.c:228:9: warning: implicit declaration of function 'vcp_txdata' [-Wimplicit-function-declaration]
+  228 |         vcp_txdata(USART_UNIT, "hello world\r\n");
+      |         ^~~~~~~~~~
+./../source/main.c:181:19: warning: unused variable 'u16RxData' [-Wunused-variable]
+  181 |     __IO uint16_t u16RxData;
+      |                   ^~~~~~~~~
+At top level:
+./../source/main.c:159:13: warning: 'Delay1s' defined but not used [-Wunused-function]
+  159 | static void Delay1s(void)
+      |             ^~~~~~~
+
+[2025-09-20 16:29:54]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\projects\ev_hc32f460_lqfp100_v2\examples\usart\usart_uart_polling\source\main.c': source file has been changed.
+
+[2025-09-20 16:29:56]	compilation failed at : "c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\projects\ev_hc32f460_lqfp100_v2\examples\usart\usart_uart_polling\source\main.c", exit code: 1
+command: 
+  "C:\gcc\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe" -c -xc -mthumb -std=c11 -I../source -I../../../../../../drivers/cmsis/Device/HDSC/hc32f4xx/Include -I../../../../../../drivers/hc32_ll_driver/inc -I../../../../../../drivers/cmsis/Include -I../../../../../../drivers/bsp/ev_hc32f460_lqfp100_v2 -D"__DEBUG" -D"HC32F460" -D"USE_DDL_DRIVER" -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -O0 -Wall -g -ffunction-sections -fdata-sections -fsigned-char --specs=nano.specs --specs=nosys.specs -fmessage-length=0 -mthumb-interwork -fno-common -Wall -Wno-main -Wno-comment -o ./build/Debug/.obj/__/source/main.o -MMD ./../source/main.c
+   at unify_builder.Program.Main(String[] args_)
+---
+./../source/main.c: In function 'vcp_txdata':
+./../source/main.c:88:10: error: 'i' undeclared (first use in this function)
+   88 |     for (i = 0UL; i < Len; i++)
+      |          ^
+./../source/main.c:88:10: note: each undeclared identifier is reported only once for each function it appears in
+./../source/main.c: In function 'main':
+./../source/main.c:228:32: warning: pointer targets in passing argument 2 of 'vcp_txdata' differ in signedness [-Wpointer-sign]
+  228 |         vcp_txdata(USART_UNIT, "hello world\r\n");
+      |                                ^~~~~~~~~~~~~~~~~
+      |                                |
+      |                                char *
+./../source/main.c:86:52: note: expected 'uint8_t *' {aka 'unsigned char *'} but argument is of type 'char *'
+   86 | void vcp_txdata(CM_USART_TypeDef *USARTx, uint8_t *Buf, uint32_t Len)
+      |                                           ~~~~~~~~~^~~
+./../source/main.c:228:9: error: too few arguments to function 'vcp_txdata'
+  228 |         vcp_txdata(USART_UNIT, "hello world\r\n");
+      |         ^~~~~~~~~~
+./../source/main.c:86:6: note: declared here
+   86 | void vcp_txdata(CM_USART_TypeDef *USARTx, uint8_t *Buf, uint32_t Len)
+      |      ^~~~~~~~~~
+./../source/main.c:181:19: warning: unused variable 'u16RxData' [-Wunused-variable]
+  181 |     __IO uint16_t u16RxData;
+      |                   ^~~~~~~~~
+At top level:
+./../source/main.c:159:13: warning: 'Delay1s' defined but not used [-Wunused-function]
+  159 | static void Delay1s(void)
+      |             ^~~~~~~
+
+[2025-09-20 16:30:15]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\projects\ev_hc32f460_lqfp100_v2\examples\usart\usart_uart_polling\source\main.c': source file has been changed.
+
+[2025-09-20 16:30:16]	compilation failed at : "c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\projects\ev_hc32f460_lqfp100_v2\examples\usart\usart_uart_polling\source\main.c", exit code: 1
+command: 
+  "C:\gcc\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe" -c -xc -mthumb -std=c11 -I../source -I../../../../../../drivers/cmsis/Device/HDSC/hc32f4xx/Include -I../../../../../../drivers/hc32_ll_driver/inc -I../../../../../../drivers/cmsis/Include -I../../../../../../drivers/bsp/ev_hc32f460_lqfp100_v2 -D"__DEBUG" -D"HC32F460" -D"USE_DDL_DRIVER" -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -O0 -Wall -g -ffunction-sections -fdata-sections -fsigned-char --specs=nano.specs --specs=nosys.specs -fmessage-length=0 -mthumb-interwork -fno-common -Wall -Wno-main -Wno-comment -o ./build/Debug/.obj/__/source/main.o -MMD ./../source/main.c
+   at unify_builder.Program.Main(String[] args_)
+---
+./../source/main.c: In function 'vcp_txdata':
+./../source/main.c:88:10: error: 'i' undeclared (first use in this function)
+   88 |     for (i = 0UL; i < Len; i++)
+      |          ^
+./../source/main.c:88:10: note: each undeclared identifier is reported only once for each function it appears in
+./../source/main.c: In function 'main':
+./../source/main.c:228:32: warning: pointer targets in passing argument 2 of 'vcp_txdata' differ in signedness [-Wpointer-sign]
+  228 |         vcp_txdata(USART_UNIT, "hello world\r\n", 13);
+      |                                ^~~~~~~~~~~~~~~~~
+      |                                |
+      |                                char *
+./../source/main.c:86:52: note: expected 'uint8_t *' {aka 'unsigned char *'} but argument is of type 'char *'
+   86 | void vcp_txdata(CM_USART_TypeDef *USARTx, uint8_t *Buf, uint32_t Len)
+      |                                           ~~~~~~~~~^~~
+./../source/main.c:181:19: warning: unused variable 'u16RxData' [-Wunused-variable]
+  181 |     __IO uint16_t u16RxData;
+      |                   ^~~~~~~~~
+At top level:
+./../source/main.c:159:13: warning: 'Delay1s' defined but not used [-Wunused-function]
+  159 | static void Delay1s(void)
+      |             ^~~~~~~
+
+[2025-09-20 16:30:37]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\projects\ev_hc32f460_lqfp100_v2\examples\usart\usart_uart_polling\source\main.c': source file has been changed.
+
+[2025-09-20 16:30:42]	[done]
+	build successfully !
+
+[2025-09-20 16:34:29]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\projects\ev_hc32f460_lqfp100_v2\examples\usart\usart_uart_polling\source\main.c': source file has been changed.
+
+[2025-09-20 16:34:33]	[done]
+	build successfully !
+
+[2025-09-20 16:37:18]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\projects\ev_hc32f460_lqfp100_v2\examples\usart\usart_uart_polling\source\main.c': source file has been changed.
+
+[2025-09-20 16:37:23]	[done]
+	build successfully !
+
+[2025-09-20 16:38:51]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\projects\ev_hc32f460_lqfp100_v2\examples\usart\usart_uart_polling\source\main.c': source file has been changed.
+
+[2025-09-20 16:38:54]	[done]
+	build successfully !
+
+[2025-09-20 16:40:57]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\projects\ev_hc32f460_lqfp100_v2\examples\usart\usart_uart_polling\source\main.c': source file has been changed.
+
+[2025-09-20 16:41:02]	[done]
+	build successfully !
+
+[2025-09-20 16:42:30]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\projects\ev_hc32f460_lqfp100_v2\examples\usart\usart_uart_polling\source\main.c': source file has been changed.
+
+[2025-09-20 16:42:34]	[done]
+	build successfully !
+
+[2025-09-20 16:43:58]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\projects\ev_hc32f460_lqfp100_v2\examples\usart\usart_uart_polling\source\main.c': source file has been changed.
+
+[2025-09-20 16:44:02]	[done]
+	build successfully !
+
+[2025-09-20 16:50:48]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\projects\ev_hc32f460_lqfp100_v2\examples\usart\usart_uart_polling\source\main.c': source file has been changed.
+
+[2025-09-20 16:50:52]	[done]
+	build successfully !
+
+[2025-09-20 16:52:16]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\projects\ev_hc32f460_lqfp100_v2\examples\usart\usart_uart_polling\source\main.c': source file has been changed.
+
+[2025-09-20 16:52:21]	[done]
+	build successfully !
+
+[2025-09-20 16:53:46]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\a24006833\Desktop\hc32-f460_-ddl-master\projects\ev_hc32f460_lqfp100_v2\examples\usart\usart_uart_polling\source\main.c': source file has been changed.
+
+[2025-09-20 16:53:50]	[done]
+	build successfully !
+
