@@ -1,0 +1,14 @@
+>>> cc
+
+./../source/main.c:211:13: warning: 'Delay1s' defined but not used [-Wunused-function]
+  211 | static void Delay1s(void)
+      |             ^~~~~~~
+
+>>> ld
+
+Memory region         Used Size  Region Size  %age Used
+           FLASH:       19616 B       512 KB      3.74%
+        OTP_DATA:          0 GB         64 B      0.00%
+        OTP_LOCK:          0 GB          4 B      0.00%
+             RAM:         520 B       188 KB      0.27%
+         RET_RAM:          0 GB         4 KB      0.00%

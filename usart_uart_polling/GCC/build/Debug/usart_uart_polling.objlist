@@ -1,0 +1,16 @@
+./build/Debug/.obj/__/__/__/__/__/__/drivers/bsp/ev_hc32f460_lqfp100_v2/ev_hc32f460_lqfp100_v2.o
+./build/Debug/.obj/__/__/__/__/__/__/drivers/cmsis/Device/HDSC/hc32f4xx/Source/system_hc32f460.o
+./build/Debug/.obj/__/__/__/__/__/__/drivers/hc32_ll_driver/src/hc32_ll.o
+./build/Debug/.obj/__/__/__/__/__/__/drivers/hc32_ll_driver/src/hc32_ll_clk.o
+./build/Debug/.obj/__/__/__/__/__/__/drivers/hc32_ll_driver/src/hc32_ll_efm.o
+./build/Debug/.obj/__/__/__/__/__/__/drivers/hc32_ll_driver/src/hc32_ll_fcg.o
+./build/Debug/.obj/__/__/__/__/__/__/drivers/hc32_ll_driver/src/hc32_ll_gpio.o
+./build/Debug/.obj/__/__/__/__/__/__/drivers/hc32_ll_driver/src/hc32_ll_icg.o
+./build/Debug/.obj/__/__/__/__/__/__/drivers/hc32_ll_driver/src/hc32_ll_interrupts.o
+./build/Debug/.obj/__/__/__/__/__/__/drivers/hc32_ll_driver/src/hc32_ll_keyscan.o
+./build/Debug/.obj/__/__/__/__/__/__/drivers/hc32_ll_driver/src/hc32_ll_pwc.o
+./build/Debug/.obj/__/__/__/__/__/__/drivers/hc32_ll_driver/src/hc32_ll_sram.o
+./build/Debug/.obj/__/__/__/__/__/__/drivers/hc32_ll_driver/src/hc32_ll_usart.o
+./build/Debug/.obj/__/__/__/__/__/__/drivers/hc32_ll_driver/src/hc32_ll_utility.o
+./build/Debug/.obj/__/source/main.o
+./build/Debug/.obj/startup_hc32f460.o

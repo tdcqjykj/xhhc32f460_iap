@@ -1,0 +1,18 @@
+-mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -T c:/Users/a24006833/Desktop/hc32-f460_-ddl-master/projects/ev_hc32f460_lqfp100_v2/examples/usart/usart_uart_polling/GCC/config/linker/HC32F460xE.ld -Wl,--gc-sections -Wl,--print-memory-usage --specs=nano.specs --specs=nosys.specs -fmessage-length=0 -mthumb-interwork -fno-common -Wall -Wno-main -Wno-comment -nostartfiles
+-Wl,-Map=./build/Debug/usart_uart_polling.map
+-o ./build/Debug/usart_uart_polling.elf ./build/Debug/.obj/__/__/__/__/__/__/drivers/bsp/ev_hc32f460_lqfp100_v2/ev_hc32f460_lqfp100_v2.o
+./build/Debug/.obj/__/__/__/__/__/__/drivers/cmsis/Device/HDSC/hc32f4xx/Source/system_hc32f460.o
+./build/Debug/.obj/__/__/__/__/__/__/drivers/hc32_ll_driver/src/hc32_ll.o
+./build/Debug/.obj/__/__/__/__/__/__/drivers/hc32_ll_driver/src/hc32_ll_clk.o
+./build/Debug/.obj/__/__/__/__/__/__/drivers/hc32_ll_driver/src/hc32_ll_efm.o
+./build/Debug/.obj/__/__/__/__/__/__/drivers/hc32_ll_driver/src/hc32_ll_fcg.o
+./build/Debug/.obj/__/__/__/__/__/__/drivers/hc32_ll_driver/src/hc32_ll_gpio.o
+./build/Debug/.obj/__/__/__/__/__/__/drivers/hc32_ll_driver/src/hc32_ll_icg.o
+./build/Debug/.obj/__/__/__/__/__/__/drivers/hc32_ll_driver/src/hc32_ll_interrupts.o
+./build/Debug/.obj/__/__/__/__/__/__/drivers/hc32_ll_driver/src/hc32_ll_keyscan.o
+./build/Debug/.obj/__/__/__/__/__/__/drivers/hc32_ll_driver/src/hc32_ll_pwc.o
+./build/Debug/.obj/__/__/__/__/__/__/drivers/hc32_ll_driver/src/hc32_ll_sram.o
+./build/Debug/.obj/__/__/__/__/__/__/drivers/hc32_ll_driver/src/hc32_ll_usart.o
+./build/Debug/.obj/__/__/__/__/__/__/drivers/hc32_ll_driver/src/hc32_ll_utility.o
+./build/Debug/.obj/__/source/main.o
+./build/Debug/.obj/startup_hc32f460.o -lm
